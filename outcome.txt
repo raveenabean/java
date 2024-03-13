@@ -1,0 +1,5 @@
+Player Name: ravee
+Number of turns played: 4
+Charge level: 3
+Number of fuel cells found: 0
+Win status: Lost
